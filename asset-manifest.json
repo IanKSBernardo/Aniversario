@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aniversario/static/css/main.60736846.css",
+    "main.js": "/Aniversario/static/js/main.f1dae417.js",
+    "index.html": "/Aniversario/index.html",
+    "main.60736846.css.map": "/Aniversario/static/css/main.60736846.css.map",
+    "main.f1dae417.js.map": "/Aniversario/static/js/main.f1dae417.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60736846.css",
+    "static/js/main.f1dae417.js"
+  ]
+}
