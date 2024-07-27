@@ -1,0 +1,28 @@
+.counter {
+    background-color: #09273e; 
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    box-shadow: inset 0 0px 40px #132b44,
+                      0 0px 40px #132b44; 
+  }
+  
+  .counter h2 {
+    color: #ededed; 
+    margin-bottom: 10px;
+    font-size: 2em;
+    text-decoration: underline 1px;
+    text-underline-offset: 4px;
+  }
+  
+  .counter p {
+    font-size: 1.2em;
+    color: #ededed; 
+  }
+  
+  .counter p:last-of-type {
+    font-style: italic;
+    color: #ababab77;
+    font-size: 1.1em;
+  }
